@@ -1,4 +1,4 @@
-# Max 4 Live Server
+# Max 4 Live App
 
 #### A Max4Live device which runs an Express server, setup to run an isomorphic App (in _/src_). The App is bundled by Parcel.
 
